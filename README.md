@@ -1,4 +1,4 @@
-# Interseguro — Factorización QR de Matrices
+#Factorización QR de Matrices
 
 Sistema de descomposición QR implementado con una arquitectura de microservicios, compuesto por dos APIs independientes y un frontend web. Todo el entorno corre sobre Docker, por lo que no se requiere instalar dependencias manualmente.
 
